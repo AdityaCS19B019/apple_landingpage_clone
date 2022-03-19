@@ -1,0 +1,19 @@
+.Title{
+    width : 480px;
+    height: 500px;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-left: 20px;
+    box-shadow: 0px 0px 15px -5px;
+    transition: 0.45s;
+    animation: ease-in-out;
+    border-radius: 15px;
+    padding-top: 30px;
+    
+ }
+
+ .Title:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+    
+}
